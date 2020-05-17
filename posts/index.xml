@@ -41,23 +41,21 @@ Magna incididunt proident cupidatat cupidatat enim consectetur sunt. Ipsum velit
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>http://arjetton.github.io/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>A Happy Heart</title>
+      <link>http://arjetton.github.io/posts/a-happy-heart/</link>
+      <pubDate>Sun, 02 Aug 2015 10:05:49 +1000</pubDate>
       
-      <guid>http://arjetton.github.io/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>http://arjetton.github.io/posts/a-happy-heart/</guid>
+      <description>Many things must be/are dealt with on a daily basis by all of us such as our jobs, school, community obligations, friends and relatives. These all have their small amount of involvement that contribute to living a life. Priorities have to be in place to have a happy life (A happy heart makes the face cheerful&amp;hellip;) because without clear direction of goals confusion can cause distress, conflict and heartache (..but heartache crushes the spirit.</description>
     </item>
     
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>http://arjetton.github.io/posts/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Complacency</title>
+      <link>http://arjetton.github.io/posts/complacency/</link>
+      <pubDate>Sun, 19 Jul 2015 10:05:49 +1000</pubDate>
       
-      <guid>http://arjetton.github.io/posts/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <guid>http://arjetton.github.io/posts/complacency/</guid>
+      <description>There are times when going to worship services is nice and comfortable, attendance is good, the people are friendly and things seem unlikely to change. Complacency can set in and take root in situations like this making efforts to contact outsiders evaporate into no effort at all. When the attendance numbers are good and thinking that they always will be is a dangerous train of thought. Experience shows that membership is a pendulum that swings high to a comfortable number but inevitably it swings back to a low where nervous despair can set in and work for the Lord gets put aside.</description>
     </item>
     
   </channel>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sin on Alpha Church</title>
+    <link>http://arjetton.github.io/tags/sin/</link>
+    <description>Recent content in sin on Alpha Church</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jul 2015 10:05:49 +1000</lastBuildDate>
+    
+	<atom:link href="http://arjetton.github.io/tags/sin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Evil of Sin</title>
+      <link>http://arjetton.github.io/posts/the-evil-of-sin/</link>
+      <pubDate>Sun, 05 Jul 2015 10:05:49 +1000</pubDate>
+      
+      <guid>http://arjetton.github.io/posts/the-evil-of-sin/</guid>
+      <description>In the course of human events things happen both good and bad. When the good happens there is joy in abundance. Cheerfulness is spread and good things seem to continue and multiply. Smiles bring smiles, good deeds bring blessings.
+As an example, helping a person with a disability brings a feeling of caring and wanting to do even more. How much greater the feeling when the person with a disability wants to help you.</description>
+    </item>
+    
+  </channel>
+</rss>
